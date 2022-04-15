@@ -1,2 +1,3 @@
 
-// disclaimer : this place a mess rn fr fr
+// for now it's a phaser clone mess!
+// until we figure out what all of this does, it will look bad.
